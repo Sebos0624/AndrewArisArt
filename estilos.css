@@ -1,0 +1,80 @@
+h1 {
+	font-family: 'Bauhaus 93', serif, Arial;
+    text-align: center;
+    font-size: 62pt;
+    margin: 0px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+h3 {
+	font-family: 'Bauhaus 93', serif, Arial;
+    text-align: center;
+    font-size: 10pt;
+    margin: 0px;
+}
+h2 {
+	font-family: 'Bauhaus 93', serif, Arial;
+    text-align: center;
+    font-size: 28pt;
+    margin: 0px;
+}
+h5 {
+	font-family: 'Bauhaus 93', serif, Arial;
+    text-align: center;
+    font-size: 48pt;
+    margin: 0px;
+    margin-top: 40px;
+}
+h6 {
+	font-family: 'Bauhaus 93', serif, Arial;
+    text-align: center;
+    font-size: 48pt;
+    margin: 0px;
+    margin-top: 40px;
+}
+footer{
+    text-align: center;
+    font-size: 16pt;
+}
+body {
+    color: white;
+}
+#container{
+    margin: 0px auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Bauhaus 93', serif, Arial;
+    font-size: 18pt;
+    
+}
+.categoria{
+    float: right;
+    list-style: none;
+    margin: 20px;
+}
+.cate{
+    color: white;
+}
+.clearfix{
+    clear: both;
+}
+.quienyo{
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+.article{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.redes{
+    text-align: center;
+}
+.logo{
+    width: 86px;
+    height: 86px;
+    margin: 12px;
+}
